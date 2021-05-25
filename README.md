@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-input-validation-app/blob/5cdb910e4c618061bd1d292c0f993b24623e8bf0/react-input-validation.gif" alt="" />
 
 # Getting Started with Create React App
 
